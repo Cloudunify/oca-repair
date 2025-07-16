@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[repair_timesheet](repair_timesheet/) | 18.0.1.0.0 |  | Repair Timesheet
 [repair_type](repair_type/) | 18.0.1.0.0 |  | Repair type
 
 [//]: # (end addons)
