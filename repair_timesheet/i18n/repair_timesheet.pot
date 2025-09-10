@@ -16,27 +16,27 @@ msgstr ""
 #. module: repair_timesheet
 #: model:ir.model,name:repair_timesheet.model_account_analytic_line
 msgid "Analytic Line"
-msgstr ""
+msgstr "Kostenstellenbuchung"
 
 #. module: repair_timesheet
 #: model_terms:ir.ui.view,arch_db:repair_timesheet.repair_order_form_view_timesheet_inherit
 msgid "Duration (Hour(s))"
-msgstr ""
+msgstr "Dauer (Stunden)"
 
 #. module: repair_timesheet
 #: model:ir.model.fields,field_description:repair_timesheet.field_account_analytic_line__repair_order_id
 msgid "Related Repair Order"
-msgstr ""
+msgstr "Reparaturauftrag"
 
 #. module: repair_timesheet
 #: model:ir.model,name:repair_timesheet.model_repair_order
 msgid "Repair Order"
-msgstr ""
+msgstr "Reparaturauftrag"
 
 #. module: repair_timesheet
 #: model:ir.model.fields,help:repair_timesheet.field_account_analytic_line__repair_order_id
 msgid "The repair order related to this timesheet entry."
-msgstr ""
+msgstr "Der Reparaturauftrag dieser Zeitbuchung"
 
 #. module: repair_timesheet
 #: model:ir.model.fields,field_description:repair_timesheet.field_repair_order__timesheet_ids
